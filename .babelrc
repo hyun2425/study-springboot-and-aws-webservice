@@ -1,8 +1,0 @@
-{
-  "presets": [
-    [
-      "@babel/preset-env",
-      {"targets": "> 5%, Firefox > 1, last 2 versions"}
-    ]
-  ]
-}
